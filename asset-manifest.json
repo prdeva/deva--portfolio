@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/deva--portfolio/static/css/main.cb512c88.css",
+    "main.js": "/deva--portfolio/static/js/main.cc085fdf.js",
+    "static/media/imgg4.png": "/deva--portfolio/static/media/imgg4.ec8bf412373b0f1749f9.png",
+    "static/media/imgg6.png": "/deva--portfolio/static/media/imgg6.59c3d2dd4c199367e48a.png",
+    "static/media/imgg10.png": "/deva--portfolio/static/media/imgg10.7b197136cb24f35e2e9f.png",
+    "static/media/prof.JPG": "/deva--portfolio/static/media/prof.056294dcb3594effbe6e.JPG",
+    "static/media/imgg3.png": "/deva--portfolio/static/media/imgg3.378dfe38ec19ee71f9a5.png",
+    "static/media/imgg1.png": "/deva--portfolio/static/media/imgg1.8da2fd03ca8f9f015292.png",
+    "static/media/imgg8.png": "/deva--portfolio/static/media/imgg8.feec61e03dae4d40f79c.png",
+    "static/media/imgg2.png": "/deva--portfolio/static/media/imgg2.7800b4a946697d3182ba.png",
+    "static/media/imgg9.png": "/deva--portfolio/static/media/imgg9.8db70e6840a5850690c3.png",
+    "static/media/imgg7.png": "/deva--portfolio/static/media/imgg7.280576e442047a821a19.png",
+    "static/media/imgg5.png": "/deva--portfolio/static/media/imgg5.4e7a07c84647b1652a24.png",
+    "index.html": "/deva--portfolio/index.html",
+    "main.cb512c88.css.map": "/deva--portfolio/static/css/main.cb512c88.css.map",
+    "main.cc085fdf.js.map": "/deva--portfolio/static/js/main.cc085fdf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb512c88.css",
+    "static/js/main.cc085fdf.js"
+  ]
+}
